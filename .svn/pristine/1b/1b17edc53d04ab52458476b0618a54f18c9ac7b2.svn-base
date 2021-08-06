@@ -1,0 +1,22 @@
+{
+  "objects": {
+    "Default": 0,
+    "ground_grid": 1,
+    "ground_cell": 2,
+    "groud_grid_decorate": 3,
+    "road_grid_city": 4,
+    "road_grid_battle_area": 5,
+    "road_cell": 6,
+    "bonus_box": 7,
+    "building_cell": 8,
+    "building_effect": 9,
+    "character": 10,
+    "character_effect": 11,
+    "mask_cell": 12,
+    "building_cell_fake": 13,
+    "drag_grid_cell": 14,
+    "obstacle": 15,
+    "area": 16,
+    "debug_grid": 17
+  }
+}
